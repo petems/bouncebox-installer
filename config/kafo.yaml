@@ -1,0 +1,13 @@
+--- 
+  :log_dir: "./config/log/"
+  :log_name: configure.log
+  :log_level: :info
+  :no_prefix: false
+  :mapping: {}
+  :answer_file: "./config/answers.yaml"
+  :installer_dir: "."
+  :modules_dir: "./modules"
+  :default_values_dir: /tmp
+  :colors: true
+  :name: Bouncebox
+  :password: "2mFtCDDV3uC6k43Yu_38JgAbJAIgl_endYOcQ_B3N9o"
