@@ -26,5 +26,9 @@ class bouncebox {
   package { 'irssi':
     ensure => installed,
   }
+  
+  package { 'screen':
+    ensure => installed,
+  }
 
 }
