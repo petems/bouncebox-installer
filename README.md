@@ -12,5 +12,6 @@ cd bouncebox-installer
 ./bin/bouncebox-installer --interactive
 ```
 
-Example: 
+## Example: 
+
 ![Example usage](http://i.imgur.com/JiDseNC.gif)
